@@ -8,13 +8,7 @@ for (pkg in c("rvest","httr","dplyr","stringr","XML","RCurl","ggplot2","reshape"
 Checking out this repository
 Then, in RStudio,
 
-Select File -> New Project... -> Version Control -> Git
-Paste https://github.com/ubcecon/web-scraping-with-R (the URL for this repo) into the space for Repository URL. Press on Create Project.
-or simply clone this repo using your favourite Git client to checkout this repository.
-
-Once the repo is checked out, try replicating the following examples by yourself by opening the corresponding .Rmd files:
-
-Tutorials
+#Tutorials
 EPS trend difference by industry from Yahoo Finance (yahoo-finance.rmd) by @jasminehao
 Basic principles of web scraping by URL patterns and HTML parsers.
 
